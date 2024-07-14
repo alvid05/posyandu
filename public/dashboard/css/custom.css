@@ -1,0 +1,5 @@
+/* Ganti warna latar belakang saat baris terpilih */
+table.dataTable tbody tr.selected {
+    background-color: #83aae7; /* Ganti dengan warna yang diinginkan */
+}
+
